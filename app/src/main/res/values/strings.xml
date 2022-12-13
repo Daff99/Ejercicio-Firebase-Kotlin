@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EjercicioFirebaseKotlin</string>
+    <string name="introduce_correo">Introduce tu correo electrónico</string>
+    <string name="introduce_pw">Introduce tu contraseña</string>
+    <string name="repite">Repite la contraseña</string>
+    <string name="registrar">Registrar usuario</string>
+    <string name="pregunta">¿Ya tienes una cuenta? Inicia sesión aquí</string>
+    <string name="initRegistrar">Iniciar sesión</string>
+    <string name="google">¿Tienes cuenta de Google? Inicia sesión aquí</string>
+    <string name="contra">Contraseña:</string>
+    <string name="contrablank">Contraseña blank</string>
+    <string name="cerrarSesion">Cerrar sesión</string>
+    <string name="fichero">com.example.ejerciciofirebasekotlin.FILE_KEY</string>
+</resources>

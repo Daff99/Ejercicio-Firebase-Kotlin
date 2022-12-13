@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410047386452",
+    "project_id": "fir-tutorial-kotlin-b1e7b",
+    "storage_bucket": "fir-tutorial-kotlin-b1e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410047386452:android:bcc44bcf3d9fea6c1caec1",
+        "android_client_info": {
+          "package_name": "com.example.ejerciciofirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410047386452-8tmd1jleq39ouk260t7bafs4ks3csl31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY-fVLH7ZFvb8V2Fa1Pj-kmiGceQt5EuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410047386452-8tmd1jleq39ouk260t7bafs4ks3csl31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
