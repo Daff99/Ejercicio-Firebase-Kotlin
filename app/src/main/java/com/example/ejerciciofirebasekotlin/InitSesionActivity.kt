@@ -37,7 +37,7 @@ class InitSesionActivity : AppCompatActivity() {
         }
 
         binding.buttonGoogle.setOnClickListener {
-            sessionGoogle()
+            sessionGoogle() //Comentario de prueba para el push
         }
 
 
